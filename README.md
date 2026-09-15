@@ -1,174 +1,126 @@
-::: {align="center"}
-`<img src="assets/affiliate-playbook-logo.png" alt="FB Shopee Affiliate Playbook" width="720">`{=html}
-
 # Facebook × Shopee Affiliate Playbook
 
-### Professional Operating System สำหรับสร้าง Content, Video และวัดผล Affiliate
+![FB Shopee Affiliate Playbook](assets/affiliate-playbook-logo.png)
 
-![Target](https://img.shields.io/badge/Target-฿500%2Fday-success)
-![Facebook](https://img.shields.io/badge/Channel-Facebook-1877F2)
-![Shopee](https://img.shields.io/badge/Commerce-Shopee-EE4D2D)
-![Format](https://img.shields.io/badge/Format-Professional_Playbook-334155)
+**Beginner → Intermediate → Advanced**
 
-**Research → Create → Publish → Measure → Optimize → Scale**
-:::
+คู่มือแบบ Chapter สำหรับสร้าง Facebook × Shopee Affiliate ตั้งแต่หาไอเดียจนถึง AI
+Video, Analytics และ Scaling
 
-------------------------------------------------------------------------
+> **เป้าหมายตัวอย่าง ฿500/วัน** ใช้เป็น Business Target สำหรับวาง Funnel
+> ไม่ใช่การรับประกันรายได้
 
-> \[!IMPORTANT\] เป้าหมาย ฿500/วันเป็นเป้าหมายเชิงธุรกิจ ไม่ใช่การรับประกันรายได้
-> ผลจริงขึ้นกับ Reach, Clicks, Conversion, Commission, สินค้า
-> และเงื่อนไขแพลตฟอร์ม
+## 🚀 Quick Start
 
-## 🧭 Start Here
+**มือใหม่:** อ่าน Chapter `00 → 06` ตามลำดับ\
+**เริ่มโพสต์แล้ว:** ไป `07 → 08` เพื่อวิเคราะห์และ Optimize\
+**ต้องการ Scale:** ไป `09 → 11`\
+**ต้องการลงมือ 30 วัน:** เปิด `12`\
+**ต้องการ Prompt/KPI:** ใช้ `13 → 14`
 
-  --------------------------------------------------------------------------------------------
-  ลำดับ                    เอกสาร                                       ใช้เมื่อ
-  ----------------------- -------------------------------------------- -----------------------
-  01                      [📘 Affiliate Master                         วางระบบตั้งแต่เริ่มจนถึง
-                          Guide](docs/affiliate-master-guide.md)       Scale
+## 📚 Table of Contents
 
-  02                      [🎬 AI Video Affiliate                       ทำวิดีโอ Affiliate ด้วย
-                          Guide](docs/ai-video-affiliate-guide.md)     ChatGPT + เครื่องมือวิดีโอ
+  -----------------------------------------------------------------------------------
+                                  Chapter หัวข้อ                  Level
+  --------------------------------------- --------------------- ---------------------
+          [00](chapters/00-start-here.md) Start Here            🟢 Beginner
 
-  03                      [🧠 Video Prompt                             Copy Prompt ไปสร้าง
-                          Templates](docs/video-prompt-templates.md)   Script / Storyboard /
-                                                                       Visual
+          [01](chapters/01-foundation.md) Foundation            🟢 Beginner
 
-  04                      [📅 30-Day Execution                         ใช้เป็น Checklist รายวัน
-                          Plan](docs/30-day-plan.md)                   
+       [02](chapters/02-idea-research.md) Idea Research         🟢 Beginner
 
-  05                      [🐙 GitHub Upload Guide](#-upload-to-github) Upload Repository นี้ขึ้น
-                                                                       GitHub
-  --------------------------------------------------------------------------------------------
+    [03](chapters/03-product-research.md) Product Research      🟢 Beginner
 
-## ⚡ Quick Workflow
+    [04](chapters/04-content-strategy.md) Content Strategy      🟡 Intermediate
 
-``` text
-เลือก Niche
-   ↓
-เลือก Product
-   ↓
-Research Pain Point + Product Facts
-   ↓
-ChatGPT → Hook + Script + Storyboard
-   ↓
-สร้างภาพ / Product Visual
-   ↓
-Animate / Video Generator / Video Editor
-   ↓
-Voice + Caption + CTA
-   ↓
-Facebook Reel
-   ↓
-Affiliate Link
-   ↓
-Track Click → Order → Commission
-   ↓
-Scale Winner
-```
+            [05](chapters/05-ai-video.md) AI Video Production   🟡 Intermediate
 
-## 🎬 ChatGPT ทำ Video Affiliate ได้ไหม?
+             [06](chapters/06-publish.md) Publish & Conversion  🟡 Intermediate
 
-**ChatGPT ช่วยทำ "ระบบผลิตวิดีโอ" ได้มาก** เช่น Research, Hook, Script,
-Storyboard, Shot List, ภาพประกอบ, Caption, CTA และ Prompt
-สำหรับเครื่องมือสร้างวิดีโอ
+           [07](chapters/07-analytics.md) Analytics             🔵 Advanced
 
-อย่างไรก็ตาม ณ กันยายน 2026 **Sora web/app ของ OpenAI ยุติบริการแล้วตั้งแต่ 26
-เม.ย. 2026 และ Sora API มีกำหนดยุติ 24 ก.ย. 2026** ดังนั้น Playbook
-นี้จึงออกแบบแบบ **tool-agnostic**: ใช้ ChatGPT เป็น Creative Director แล้วนำ
-Storyboard/Assets ไปประกอบหรือ animate ใน video editor / video-generation
-service ที่คุณมีสิทธิ์ใช้งาน
+        [08](chapters/08-optimization.md) Optimization          🔵 Advanced
 
-➡️ อ่านขั้นตอนเต็ม: [AI Video Affiliate
-Guide](docs/ai-video-affiliate-guide.md)
+    [09](chapters/09-advanced-scaling.md) Advanced Scaling      🔵 Advanced
 
-## 🏗️ Repository Structure
+             [10](chapters/10-chatgpt.md) ChatGPT Workflow      🤖 AI
+
+         [11](chapters/11-chatgpt-pro.md) ChatGPT Pro & ROI     🤖 AI
+
+         [12](chapters/12-30-day-plan.md) 30-Day Action Plan    📅 Execution
+
+             [13](chapters/13-prompts.md) Prompt Library        🧠 Toolkit
+
+                 [14](chapters/14-kpi.md) KPI Template          📊 Toolkit
+  -----------------------------------------------------------------------------------
+
+➡️ [เปิด Chapter Index แบบเต็ม](CHAPTERS.md)
+
+## 🗺️ Learning Path
 
 ``` text
-fb-shopee-affiliate-playbook/
-├── README.md
-├── assets/
-│   └── affiliate-playbook-logo.png
-└── docs/
-    ├── affiliate-master-guide.md
-    ├── ai-video-affiliate-guide.md
-    ├── video-prompt-templates.md
-    └── 30-day-plan.md
+START
+  ↓
+00 Start Here
+  ↓
+01 Foundation
+  ↓
+02 Idea Research
+  ↓
+03 Product Research
+  ↓
+04 Content Strategy
+  ↓
+05 AI Video
+  ↓
+06 Publish
+  ↓
+07 Analytics
+  ↓
+08 Optimize
+  ↓
+09 Scale
+  ↓
+10 ChatGPT Workflow
+  ↓
+11 Pro / ROI
+  ↓
+12 Execute 30 Days
+  ↓
+13 Prompts + 14 KPI
 ```
 
-## 🎯 Core KPI
+## 🎯 Core Business Funnel
 
 ``` text
-Reach → Click → Order → Commission
+Idea → Product → Content → Video
+→ Facebook Reach → Click → Shopee
+→ Order → Commission → Data → Scale
 ```
 
-  KPI                        Formula
-  -------------------------- ----------------------------
-  CTR                        Clicks ÷ Reach × 100
-  Conversion Rate            Orders ÷ Clicks × 100
-  EPC                        Commission ÷ Clicks
-  Commission / 1,000 Reach   Commission ÷ Reach × 1,000
+## 🧭 Navigation Design
 
-## 🐙 Upload to GitHub
+ทุก Chapter มี Navigation ทั้งด้านบนและด้านล่าง:
 
-### Option A --- Repository ใหม่
+``` text
+← Previous · 🏠 Home · 📚 Chapters · Next →
+```
 
-เปิด Terminal / PowerShell ใน Folder ที่แตกไฟล์แล้ว:
+จึงสามารถอ่านต่อเนื่องเหมือนหนังสือ หรือกระโดดกลับสารบัญได้ตลอด
+
+## 🐙 Update Existing GitHub Repository
+
+Copy ไฟล์ชุดนี้ทับ Repository เดิม แล้ว:
 
 ``` bash
-git init
+cd C:\dev\fb-shopee-affiliate-playbook
 git add .
-git commit -m "Initial commit: FB Shopee Affiliate Playbook"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-git push -u origin main
+git commit -m "Restructure playbook into navigable chapters"
+git push origin main
 ```
 
-เปลี่ยน:
+## 🏆 Principle
 
-``` text
-YOUR-USERNAME
-YOUR-REPOSITORY
-```
+> **Research → Test → Measure → Learn → Scale**
 
-เป็นชื่อ GitHub ของคุณ
-
-### Option B --- ใช้ GitHub CLI
-
-``` bash
-git init
-git add .
-git commit -m "Initial commit: FB Shopee Affiliate Playbook"
-gh repo create fb-shopee-affiliate-playbook --public --source=. --remote=origin --push
-```
-
-> \[!TIP\] ถ้า Git แจ้งว่าไม่รู้จักชื่อหรือ Email ให้ตั้งค่าก่อน:
->
-> ``` bash
-> git config --global user.name "YOUR NAME"
-> git config --global user.email "YOUR_EMAIL@example.com"
-> ```
-
-## 🔄 Update ครั้งต่อไป
-
-``` bash
-git add .
-git commit -m "Update affiliate playbook"
-git push
-```
-
-## 🛡️ Content Rules
-
--   เปิดเผย Affiliate relationship ตามข้อกำหนดที่เกี่ยวข้อง
--   ไม่สร้างราคา ส่วนลด Stock หรือผลลัพธ์ที่ตรวจสอบไม่ได้
--   ไม่อ้างว่า "ใช้จริง" หากไม่ได้ใช้จริง
--   ใช้ภาพ วิดีโอ เพลง และ Product Assets ที่คุณมีสิทธิ์ใช้
--   ตรวจสอบเงื่อนไข Shopee/Facebook ล่าสุดก่อน Campaign
-
-------------------------------------------------------------------------
-
-::: {align="center"}
-### Build the System. Measure the Data. Scale the Winners.
-
-**FB × Shopee Affiliate Playbook**
-:::
+เริ่มอ่านที่ **[Chapter 00 --- Start Here](chapters/00-start-here.md)**
